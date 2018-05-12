@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '42753'
     url: http://www.gutenberg.org/2009/agents/42753
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36966#The-Story-of-the-Toys
 gutenberg_issued: '2011-08-03'
 gutenberg_type: Text
 identifiers:
